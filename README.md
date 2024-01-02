@@ -20,8 +20,7 @@ Models used: GradientBoosterRegressor
 * Python, Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Streamlit
 
 ## App Screenshot
-![Hotel Logistic](https://github.com/Ikeoluwapo/Hotel-Status/blob/34b72be2d923eefea6a1496b179d9ad0b9423235/INNHOTEL%20LOGISTIC%20REGRESSION.png?raw=True)
-![Hotel svm](https://github.com/Ikeoluwapo/Hotel-Status/blob/34b72be2d923eefea6a1496b179d9ad0b9423235/INNHOTEL%20SVN%20NAIVES.png?raw=True)
+![Device Price](https://github.com/Ikeoluwapo/Device-Price/blob/7e13c6db2748674fb07dc184ee504278cdbb5723/Device%20Price.png?raw=True)
 
 ## Let's Connect
 I'm eager to learn and always open to collaborating on interesting data projects or discussing the latest trends in data science. Feel free to connect with me here on GitHub, or you can reach out to me via www.linkedin.com/in/emmanuella-omolade-23925219a
