@@ -76,11 +76,11 @@ y_predict2 = model2.predict(x_testsc)
 
 # Collect user input
 user_input = {
-    "brand_name": st.text_input("Enter the brand name: "),
-    "os": st.text_input("Enter the os type: "),
+    "brand_name": st.text_input("Enter the brand name: ").title(),
+    "os": st.text_input("Enter the os type: ").title(),
     "screen_size": st.number_input("Enter the screen size: "),
-    "4g": st.text_input("Enter yes/no for 4G: "),
-    "5g": st.text_input("Enter yes/no for 5G: "),
+    "4g": st.text_input("Enter yes/no for 4G: ").lower(),
+    "5g": st.text_input("Enter yes/no for 5G: ").lower(),
     "main_camera_mp": st.number_input("Enter the main camera MP: "),
     "selfie_camera_mp": st.number_input("Enter the selfie camera MP: "),
     "int_memory": st.number_input("Enter the internal memory: "),
